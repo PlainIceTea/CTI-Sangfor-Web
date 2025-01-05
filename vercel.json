@@ -13,7 +13,7 @@
     "env": {
         "APP_ENV": "production",
         "APP_DEBUG": "true",
-        "APP_URL": "https://your.url.from.vercel.app",
+        "APP_URL": "http://sangfor.test",
         "APP_KEY": "base64:9JI6mMXUPbbbW9vzn/8I7mbm8mQNKo8U+YX6IWUj3bw=",
 
         "APP_CONFIG_CACHE": "/tmp/config.php",
