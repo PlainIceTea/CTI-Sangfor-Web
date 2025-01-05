@@ -117,10 +117,11 @@
 
 
 
-
-                <x-button type="submit" class="w-56 mx-auto mt-10">
+                
+                <x-button href="/success" type="submit" class="w-56 mx-auto mt-10">
                     SEND
                 </x-button>
+           
             </form>
         </div>
     </div>
