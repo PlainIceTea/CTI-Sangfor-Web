@@ -20,7 +20,8 @@ export default {
           colors: {
             nav: "#00008E",
             textBlue: "#293660",
-            button: "#018000",
+            button: "#04BE02",
+            'button-dark': '#03A300',
             
         },
       },

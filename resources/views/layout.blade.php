@@ -10,7 +10,10 @@
 <link href="https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap" rel="stylesheet">
         @vite('resources/css/app.css') <!-- Tailwind CSS -->
     </head>
-    <body class="font-sans bg-black">
+    <body class="font-sans bg-white">
         @yield('content')
     </body>
 </html>
+
+
+
