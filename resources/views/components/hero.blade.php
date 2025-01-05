@@ -1,3 +1,4 @@
+{{-- Hero Landing Page --}}
 <div class="w-screen h-screen bg-white relative">
     <img src="{{ asset('src/images/heroBg.png') }}" class="inset-0 absolute h-full w-auto object-cover z-0" alt="">
 

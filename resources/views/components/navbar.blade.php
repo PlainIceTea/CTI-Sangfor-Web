@@ -1,10 +1,11 @@
-<div class="fixed top-0">
-    {{-- Top Div --}}
+<div class="fixed top-0 z-50">
 
+    {{-- Top Div --}}
     <div class=" w-screen flex bg-nav items-center px-4 py-3 sm:px-8 sm:py-5">
         <div class=" text-white ml-auto text-sm sm:text-xl">ID | EN</div>
     </div>
 
+    {{-- Navbar --}}
     <div class=" relative w-auto bg-white bg-opacity-70 flex items-center ">
         <div class=" flex gap-x-4 px-4 py-3 sm:px-24 sm:py-5 z-10 ">
             <img src="{{ asset('src/images/sangforLogo.png') }}" alt="logo sangfor" class="h-10 w-auto sm:h-auto" >

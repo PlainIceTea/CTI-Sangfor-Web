@@ -30,5 +30,7 @@ export default {
         sans: ['Rubik', 'sans-serif'],
     },
     },
-    plugins: [],
+    plugins: [
+        require('daisyui'),
+      ],
   }
